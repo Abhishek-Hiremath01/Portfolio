@@ -27,7 +27,7 @@ const profile = {
   location: 'Karnataka, India',
   email: 'abhishekfhiremath01@gmail.com',
   phone: '+91 99643 93963',
-  linkedin: 'https://linkedin.com/in/Abhishek-F-Hiremath',
+  linkedin: 'https://linkedin.com/in/abhishek-f-hiremath',
   github: 'https://github.com/Abhishek-Hiremath01',
   summary:
     'Aspiring IT professional with a B.E. in Information Science and Engineering, hands-on experience in analytics, machine learning and dashboard development, and a strong foundation in Python, Java, SQL and modern web tooling.',
